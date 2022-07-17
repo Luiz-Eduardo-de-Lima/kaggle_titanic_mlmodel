@@ -1,4 +1,3 @@
-# Kaggle Titanic ML challange
 
 # Kaggle titanic ML challange
 
